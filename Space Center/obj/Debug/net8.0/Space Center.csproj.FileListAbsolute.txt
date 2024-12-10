@@ -1,0 +1,15 @@
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\bin\Debug\net8.0\Space Center.exe
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\bin\Debug\net8.0\Space Center.deps.json
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\bin\Debug\net8.0\Space Center.runtimeconfig.json
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\bin\Debug\net8.0\Space Center.dll
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\bin\Debug\net8.0\Space Center.pdb
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\obj\Debug\net8.0\Space Center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\obj\Debug\net8.0\Space Center.AssemblyInfoInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\obj\Debug\net8.0\Space Center.AssemblyInfo.cs
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\obj\Debug\net8.0\Space Center.csproj.CoreCompileInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\obj\Debug\net8.0\Space Center.sourcelink.json
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\obj\Debug\net8.0\Space Center.dll
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\obj\Debug\net8.0\refint\Space Center.dll
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\obj\Debug\net8.0\Space Center.pdb
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\obj\Debug\net8.0\Space Center.genruntimeconfig.cache
+C:\Users\ziyis\OneDrive\Desktop\Space-Center\Space Center\obj\Debug\net8.0\ref\Space Center.dll
